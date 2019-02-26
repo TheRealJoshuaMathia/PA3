@@ -56,4 +56,4 @@ int sort(Node **pList); //7
 int rate(Node **pList); //8
 void play(Node **pList); //9
 void shuffle(Node **pList); //10
-void exit(FILE *infile, Node **pList); // 11
+void exit(FILE *outfile, Node **pList); // 11
