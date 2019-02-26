@@ -703,12 +703,3 @@ void shuffle(Node **pList)
 	printf("\nEnd of playlist.\n");
 	system("pause");
 }
-
-void exit(FILE *outfile, Node **pList) {
-
-
-store(outfile, pList);
-
-
-
-}
