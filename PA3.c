@@ -1,4 +1,4 @@
-#include <PA3.h>
+#include "PA3.h"
 
 //Help Functions
 
@@ -82,7 +82,7 @@ int convertInt(char *str)
 	return num;
 }
 
-int choosechoice(void)
+int getChoice(void)
 {
 	int choice;
 

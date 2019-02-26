@@ -42,6 +42,7 @@ int sortRating(Node **pList);
 int sortTimesPlayed(Node **pList);
 int countList(Node **pList);
 void runProgram(FILE *infile, FILE *outfile, Node **pList, int choice);
+int getChoice(void);
 
 //Functions that perform menu Tasks
 
